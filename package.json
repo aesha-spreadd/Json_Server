@@ -1,0 +1,26 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeshapatel025/Json_Server.git"
+  },
+  "keywords": [
+    "JSON",
+    "Server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeshapatel025/Json_Server/issues"
+  },
+  "homepage": "https://github.com/aeshapatel025/Json_Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
